@@ -10,9 +10,6 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 2>Open XAMPP Control panal and start [apache] and [mysql] .
 
-3>Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
-    OR follow gitbash commands
-    
     i>cd C:\\xampp\htdocs\
     
     ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
@@ -37,10 +34,6 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 13>admin login details  Email=admin@gmail.com and Password=123456789.
 
-## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
 
 ##  If you like my project hit a star button
 
